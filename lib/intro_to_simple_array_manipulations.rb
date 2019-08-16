@@ -37,7 +37,7 @@ end
   def using_flatten(array)
     array = [1,2,3]
     a = [4,5,[6,7,]8]
-    m = [9,10]  
+    m = [array,a,9,10]  
    array.flatten 
  end 
    
