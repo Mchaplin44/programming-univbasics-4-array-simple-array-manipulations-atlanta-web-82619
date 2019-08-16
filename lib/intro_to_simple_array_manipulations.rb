@@ -28,7 +28,6 @@ end
 
 def using_insert(array,element)
   array.insert[5]
-  element =[5]
 end
   
   
