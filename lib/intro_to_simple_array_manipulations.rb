@@ -39,5 +39,6 @@ end
     a = [4,5,]
     m = [6,7]  
    array.flatten 
+ end 
    
     
