@@ -39,7 +39,6 @@ end
  end 
    
    def using_delete(array)
-     array = ("1","2","3")
      array.delete
    end
      
